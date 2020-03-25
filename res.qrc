@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/littlestart.png</file>
+        <file>images/auto.png</file>
+        <file>images/begin.png</file>
+        <file>images/bubble_1.png</file>
+        <file>images/bubble_2.png</file>
+        <file>images/chessboard_1.png</file>
+        <file>images/chessboard_2.png</file>
+        <file>images/chessboard_3.png</file>
+        <file>images/chessboard_4.png</file>
+        <file>images/confirm.png</file>
+        <file>images/hanoi_1.png</file>
+        <file>images/hanoi_2.png</file>
+        <file>images/huff_1.png</file>
+        <file>images/huff_2.png</file>
+        <file>images/last.png</file>
+        <file>images/next.png</file>
+        <file>images/reset.png</file>
+        <file>images/visiable.png</file>
+        <file>images/choice.png</file>
+        <file>images/continue.png</file>
+        <file>images/stop.png</file>
+    </qresource>
+</RCC>
